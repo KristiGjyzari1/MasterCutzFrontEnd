@@ -1,0 +1,79 @@
+.home-container {
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 50px;
+}
+
+.hero {
+    background-image: url('https://via.placeholder.com/1200x500'); /* Mund të vendosësh një foto reale */
+    background-size: cover;
+    color: white;
+    padding: 100px 20px;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+p {
+    font-size: 1.5em;
+    margin: 20px 0;
+}
+
+.home-buttons .btn {
+    text-decoration: none;
+    background-color: #ff7f50;
+    color: white;
+    padding: 15px 25px;
+    border-radius: 5px;
+    margin: 10px;
+    font-size: 1.2em;
+}
+
+.home-buttons .btn:hover {
+    background-color: #e75d30;
+}
+.home-container {
+    text-align: center;
+    padding: 40px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.home-container h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.home-container p {
+    font-size: 1.2rem;
+    color: #555;
+}
+
+.auth-section {
+    margin-top: 40px;
+}
+
+.auth-section h2 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+}
+
+.navigate-links ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.navigate-links li {
+    margin: 10px 0;
+}
+
+.navigate-links a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.navigate-links a:hover {
+    text-decoration: underline;
+}
